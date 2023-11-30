@@ -21,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4F37E2CB2B18EF14001E154C /* ShaderTypes.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = ShaderTypes.hpp; sourceTree = "<group>"; };
 		4FD668022B176B5B00546A59 /* CSExampleObjC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CSExampleObjC.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FD6680D2B176B5C00546A59 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4FD668122B176B5C00546A59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -89,6 +90,7 @@
 				4FD668262B178CC000546A59 /* RootViewController.mm */,
 				4FD6682D2B17959800546A59 /* Renderer.hpp */,
 				4FD6682E2B17959800546A59 /* Renderer.mm */,
+				4F37E2CB2B18EF14001E154C /* ShaderTypes.hpp */,
 			);
 			path = CSExampleObjC;
 			sourceTree = "<group>";
